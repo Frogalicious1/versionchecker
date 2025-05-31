@@ -2,5 +2,5 @@
     "SoftwareVersion": "1.0.1",
     "SoftwareUrl":"https://www.mediafire.com/file/h89oxqj0q6vbt7u/MIDNIGHTv1.0.1.zip/file",
     "Status":"True",
-    "Changelog":"[+] Changed Daily key, will reset daily at 7:00PM EST"
+    "Changelog":"[+] Changed Daily key, will reset daily at 7:00PM EST\n[+] Changed update code to trigger on key screen\n[+] Scripthub changed to trending scripts"
 }
