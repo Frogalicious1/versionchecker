@@ -1,5 +1,5 @@
 {
-    "SoftwareVersion": "1.0.1",
+    "SoftwareVersion": "1.0.0",
     "SoftwareUrl":"https://hidan.sh/dl/aof6n_flpvkRCoyjCmwhsftt2ZM56SfY8BIyPaGhcJGzEqktUGMv4zq18TZ1bsfkFq24T4QKKUSPcSE-0Il17vcDueoCs8cCu4Q6gziZ4fve",
     "Status":"True",
     "Changelog":"[+] Changed Daily key, will reset daily at 7:00PM EST\n[+] Changed update code to trigger on key screen\n[+] Scripthub changed to trending scripts"
