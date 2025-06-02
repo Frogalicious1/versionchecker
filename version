@@ -1,6 +1,8 @@
 {
-    "SoftwareVersion": "1.0.0",
-    "SoftwareUrl":"https://hidan.sh/dl/aof6n_flpvkRCoyjCmwhsftt2ZM56SfY8BIyPaGhcJGzEqktUGMv4zq18TZ1bsfkFq24T4QKKUSPcSE-0Il17vcDueoCs8cCu4Q6gziZ4fve",
+    "SoftwareVersion": "1.0.1",
+    "SoftwareUrl":"https://send.now/rrq1gmpkoqfv",
     "Status":"True",
-    "Changelog":"[+] Changed Daily key, will reset daily at 7:00PM EST\n[+] Changed update code to trigger on key screen\n[+] Scripthub changed to trending scripts"
+    "Changelog":"[+] UI Updated, should look better on the eyes.
+[+] New key is released on our discord: .gg/6NE27dCaWX
+[+] ScriptHub is now set to trending, though there are known bugs. Check discord for more."
 }
