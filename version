@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.2.0",
-    "SoftwareUrl":"https://www.dropbox.com/scl/fi/agprbvcdxod49oyqhx2lj/midnight.zip?rlkey=h7w1c3veti86pry3mgvns9c3b&st=d5qqzeto&dl=1",
-    "Status":"False",
-    "Changelog":"[+] Fixed some bugs n' shit."
+    "SoftwareVersion": "1.2.1",
+    "SoftwareUrl":"https://www.dropbox.com/scl/fi/vqc1ed9ikzrke8r0hbp3f/midnight.zip?rlkey=o8t9zl3772kppxjdiwm9lr2iu&st=jxj5t1j4&dl=1",
+    "Status":"True",
+    "Changelog":"[+] Updated API and Injection files"
 }
