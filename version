@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "1.2.2",
     "SoftwareUrl":"https://www.dropbox.com/scl/fi/kspj9z9jsbfpu13lf6vsr/midnight.zip?rlkey=sh7y02amiceidkyxci1b8iz46&st=6mrox3uj&dl=1",
-    "Status":"True",
+    "Status":"False",
     "Changelog":"[+] Updated API and Injection files, changed UI"
 }
