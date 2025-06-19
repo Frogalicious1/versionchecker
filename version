@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "1.2.3",
-    "SoftwareUrl":"https://www.dropbox.com/scl/fi/6avqfu2ini6sfid9etctw/midnight.zip?rlkey=mgjkwe2hajogqsjh5s9qbugm3&st=pm3ptli1&dl=1",
-    "Status":"False",
-    "Changelog":"[+] Updated API, compacted some DLLs into the EXE"
+    "SoftwareUrl":"https://www.dropbox.com/scl/fi/usoy2hb3t7i2vnxdzfw8l/midnight.zip?rlkey=zypt2f6caglka6y7sr3i3ht5o&st=ui53tkbm&dl=1",
+    "Status":"True",
+    "Changelog":"[+] Fixed stuff"
 }
