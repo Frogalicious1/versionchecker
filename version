@@ -1,6 +1,6 @@
 {
-    "SoftwareVersion": "1.2.5",
-    "SoftwareUrl":"https://www.dropbox.com/scl/fi/81togpl2yrdtksixrugup/midnight.zip?rlkey=zwnj3dydqrz4sedi57aogywne&st=fhxe0zuh&dl=1",
-    "Status":"False",
-    "Changelog":"[+] Lowered size to just 54mb WOW!"
+    "SoftwareVersion": "1.2.4b",
+    "SoftwareUrl":"https://www.dropbox.com/scl/fi/oqtv75qwy38eumny5mnkv/Midnight.zip?rlkey=vww8t33d8wm7s3ufiw30m2dlk&st=6wxcrw5l&dl=1",
+    "Status":"True",
+    "Changelog":"[+] Updated api"
 }
