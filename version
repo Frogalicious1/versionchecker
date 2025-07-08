@@ -1,10 +1,10 @@
 {
   "Status_Public": "True",
-  "Status_Premium": "False",
+  "Status_Premium": "True",
   "SoftwareVersion_Premium": "1.0",
   "SoftwareVersion_Public": "1.2.6",
-  "PrivateSoftwareUrl": "https://example.com/premium.zip",
+  "PrivateSoftwareUrl": "https://www.dropbox.com/scl/fi/erjgrlmfdy98566af2miq/Midnight.zip?rlkey=xs75cuki4lhtk61lbxr3w33h8&st=nb2qv22t&dl=1",
   "PublicSoftwareUrl": "https://www.dropbox.com/scl/fi/8q0o7avup5lw71e31yipv/MidLITE.zip?rlkey=fuml8wg3ow41njncig3ex2lgh&st=qqmqj8aq&dl=1",
-  "Changelog_Premium": "Initial Release",
+  "Changelog_Premium": "BETA",
   "Changelog_Public": "Updated API"
 }
