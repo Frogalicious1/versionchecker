@@ -1,6 +1,8 @@
 {
-    "SoftwareVersion": "1.2.5",
-    "SoftwareUrl":"https://www.dropbox.com/scl/fi/8lh9jgsqkvf4nkx20ffge/MidLITE.zip?rlkey=qr23g86soj60uci6r7xyla7r1&st=jodw5bmh&dl=1",
-    "Status":"True",
+    "PubSoftwareVersion": "1.2.5",
+    "PrivSoftwareVersion": "1.0",
+    "PublicSoftwareUrl":"https://www.dropbox.com/scl/fi/8lh9jgsqkvf4nkx20ffge/MidLITE.zip?rlkey=qr23g86soj60uci6r7xyla7r1&st=jodw5bmh&dl=1",
+    "PrivateSoftwareUrl":,
+    "Status":"False",
     "Changelog":"Check getmidnight.xyz for changes"
 }
