@@ -1,6 +1,6 @@
 {
-  "Status_Public": "True",
-  "Status_Premium": "True",
+  "Status_Public": "False",
+  "Status_Premium": "False",
   "SoftwareVersion_Premium": "1.0",
   "SoftwareVersion_Public": "1.2.6",
   "PrivateSoftwareUrl": "https://www.dropbox.com/scl/fi/g2ono8wte2893ic9im9o0/Midnight.zip?rlkey=bhktvoeevhkzxjwu1piptmmnh&st=vz0ctv0a&dl=1",
