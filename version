@@ -1,8 +1,8 @@
 {
   "Status_Public": "False",
   "Status_Premium": "False",
-  "SoftwareVersion_Premium": "1.0",
-  "SoftwareVersion_Public": "1.2.6",
+  "SoftwareVersion_Premium": "1.1",
+  "SoftwareVersion_Public": "1.2.7",
   "PrivateSoftwareUrl": "https://www.dropbox.com/scl/fi/g2ono8wte2893ic9im9o0/Midnight.zip?rlkey=bhktvoeevhkzxjwu1piptmmnh&st=vz0ctv0a&dl=1",
   "PublicSoftwareUrl": "https://www.dropbox.com/scl/fi/8q0o7avup5lw71e31yipv/MidLITE.zip?rlkey=fuml8wg3ow41njncig3ex2lgh&st=qqmqj8aq&dl=1",
   "Changelog_Premium": "BETA",
