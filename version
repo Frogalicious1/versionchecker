@@ -1,10 +1,10 @@
 {
   "Status_Public": "True",
-  "Status_Premium": "True",
-  "SoftwareVersionPremium": "1.1",
-  "SoftwareVersionPublic": "1.2.7",
-  "PrivateSoftwareUrl": "https://www.dropbox.com/scl/fi/g2ono8wte2893ic9im9o0/Midnight.zip?rlkey=bhktvoeevhkzxjwu1piptmmnh&st=vz0ctv0a&dl=1",
-  "PublicSoftwareUrl": "https://www.dropbox.com/scl/fi/4dlzfrqd6h3erjf46pdwl/MidLITE.zip?rlkey=5dwtfpsmlwor7bmeg69zfl76v&st=36qq01yw&dl=1",
+  "Status_Premium": "False",
+  "SoftwareVersionPremium": "1.0",
+  "SoftwareVersionPublic": "1.0",
+  "PrivateSoftwareUrl": "",
+  "PublicSoftwareUrl": "",
   "Changelog_Premium": "BETA",
   "Changelog_Public": "Updated API + Working without crash when using included WEAO Roblox version"
 }
